@@ -1,0 +1,12 @@
+2010-10-08  Hirochika Asai  <asai@scyphus.co.jp>
+
+    * hash.c: fixed a bug
+    * sketch.c: changed the test function
+
+
+2010-06-14  Hirochika Asai  <asai@scyphus.co.jp>
+
+    * sketch.c: added
+    * hash.c: added
+
+    * hash.c: fixed a bug
