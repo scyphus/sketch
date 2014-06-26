@@ -1,0 +1,21 @@
+* sketch-0.1.1 (8 Oct. 2010)
+** bug fixed version
+*** fixed a bug in hash.c
+
+* sketch-0.1.0 (19 July 2010)
+** initial version release
+*** created sketch library with hash.{c|h} as libsketch.la
+
+* sketch-0.1.0b (14 June 2010)
+** beta version release
+*** fixed a bug in hash.c
+
+* sketch-0.1.0a (14 June 2010)
+** alpha version release
+
+
+Local variables:
+mode: outline
+paragraph-separate: "[  ^L]*$"
+coding: utf-8
+End:
